@@ -14,9 +14,9 @@ from pyrogram.errors import FloodWait
 
 teletips=Client(
     "PingAllBot",
-    api_id = int(os.environ["API_ID"]),
-    api_hash = os.environ["API_HASH"],
-    bot_token = os.environ["BOT_TOKEN"]
+    api_id = int(os.environ["28416584"]),
+    api_hash = os.environ["f224c57df76b4114a89ea332aa24c6db"],
+    bot_token = os.environ["5985068610:AAF4vl7JyDVmOl4hgB9wL6y620kox16l2zE"]
 )
 
 chatQueue = []
@@ -238,7 +238,7 @@ My name is **PingAll**. I'm here to help you to get everyone's attention by ment
 
 I have some additional cool features and also I can work in channels.
 
-Don't forget to join my [channel](http://t.me/teletipsofficialchannel) to recieve information on all the latest updates.
+Don't forget to join my [channel](http://t.me/About_kailas) to recieve information on all the latest updates.
 
 Hit /help to find out my commands and the use of them.
 '''
